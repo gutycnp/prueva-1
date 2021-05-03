@@ -1,1 +1,4 @@
 conflicto1
+2
+2 conflicto en la segunda rama
+final
